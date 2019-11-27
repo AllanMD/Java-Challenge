@@ -1,7 +1,7 @@
 # Java-Challenge
 Java Challenge for Avalith
 
-##CHALLENGE de JAVA:
+## CHALLENGE de JAVA:
 
 - Se necesitá que se realice un Micro Servicio para gestionar las 
 habitaciones en un hotel.
